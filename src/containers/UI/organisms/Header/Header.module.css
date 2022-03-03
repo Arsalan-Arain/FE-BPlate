@@ -1,0 +1,9 @@
+.HeaderStyle {
+    padding: 8px 16px;
+    display: flex;
+    background-color: rgb(243, 243, 243);
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 2px solid rgb(122, 122, 122);
+    margin-bottom: 8%;
+}
